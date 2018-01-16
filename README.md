@@ -1,5 +1,5 @@
 # teach_NLP
-teach_NLP相关源代码，均发布于此
+The teach_NLP project is here
 
 ### environment：
 python                    2.7.13<br>
